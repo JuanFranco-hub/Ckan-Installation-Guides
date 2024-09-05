@@ -1,6 +1,6 @@
 # CKAN: Comprehensive Knowledge Archive Network
 
-![CKAN Logo](https://ckan.org/theme/images/logo/ckan-logo.png)
+![CKAN Logo]([https://ckan.org/theme/images/logo/ckan-logo.png](https://avatars.githubusercontent.com/u/1630326?s=200&v=4))
 
 ## Overview
 
