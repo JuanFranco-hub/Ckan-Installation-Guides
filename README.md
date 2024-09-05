@@ -1,61 +1,60 @@
-# CKAN: Comprehensive Knowledge Archive Network
+# CKAN: Red de Archivo de Conocimiento Abierto
 
-## Overview
+## Descripción General
 
-**CKAN** is an open-source data management system (DMS) that allows you to store, manage, and share datasets in a structured and efficient way. It is widely used by governments, research institutions, and organizations for creating open data portals and improving data accessibility. 
+**CKAN** es un sistema de gestión de datos (DMS) de código abierto que permite almacenar, gestionar y compartir conjuntos de datos de manera estructurada y eficiente. Es utilizado ampliamente por gobiernos, instituciones de investigación y organizaciones para crear portales de datos abiertos y mejorar la accesibilidad a la información.
 
-Some of CKAN's key features include:
-- Data publishing and sharing
-- Dataset visualization
-- Access control and user management
-- API access for developers
-- Plugin support to extend functionality
+Algunas de las características clave de CKAN incluyen:
+- Publicación y compartición de datos
+- Visualización de conjuntos de datos
+- Control de acceso y gestión de usuarios
+- Acceso mediante API para desarrolladores
+- Soporte de plugins para ampliar funcionalidades
 
-## Key Features
+## Características Principales
 
-### 🚀 **Powerful Data Management**
-CKAN enables organizations to centralize their datasets in one place, making data easier to find, use, and share.
+### 🚀 **Gestión Potente de Datos**
+CKAN permite centralizar todos tus conjuntos de datos en un solo lugar, facilitando la búsqueda, uso y compartición de los mismos.
 
-### 🌐 **API for Developers**
-Integrate CKAN with other services using its robust API, enabling data access and automation through scripting.
+### 🌐 **API para Desarrolladores**
+Integra CKAN con otros servicios mediante su robusta API, permitiendo acceso a los datos y automatización mediante scripts.
 
-### 🎨 **Customizable & Extendable**
-With a modular plugin architecture, CKAN can be customized to fit any use case.
+### 🎨 **Personalizable y Extensible**
+Con una arquitectura modular de plugins, CKAN puede ser personalizado para ajustarse a cualquier caso de uso.
 
-### 🔐 **Access Control**
-Set permissions and access levels for users, ensuring data security and integrity.
-
----
-
-## Installation Guides
-
-Whether you're setting up CKAN with packages, from source, or using Docker, follow these guides for a step-by-step walkthrough.
-
-1. [CKAN Installation via Packages](#) - Guide for setting up CKAN using system packages.
-2. [CKAN Installation from Source](#) - Learn how to install CKAN from source.
-3. [CKAN Installation with Docker](#) - Quick and easy installation using Docker containers.
+### 🔐 **Control de Acceso**
+Establece permisos y niveles de acceso para los usuarios, asegurando la seguridad e integridad de los datos.
 
 ---
 
-## Documentation & Resources
+## Guías de Instalación
 
-- [CKAN Official Documentation](https://docs.ckan.org/en/latest/)
-- [CKAN GitHub Repository](https://github.com/ckan/ckan)
+Ya sea que estés configurando CKAN mediante paquetes, desde el código fuente o utilizando Docker, sigue estas guías paso a paso.
 
----
-
-## Contributing
-
-Contributions are always welcome! If you would like to contribute to CKAN or report an issue, please visit the [GitHub repository](https://github.com/ckan/ckan).
+1. [Instalación de CKAN vía Paquetes](#) - Guía para instalar CKAN utilizando paquetes del sistema.
+2. [Instalación de CKAN desde el Código Fuente](#) - Aprende a instalar CKAN desde el código fuente.
+3. [Instalación de CKAN con Docker](#) - Instalación rápida y sencilla utilizando contenedores Docker.
 
 ---
 
-## License
+## Documentación y Recursos
 
-CKAN is released under the [GNU Affero General Public License (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html).
+- [Documentación Oficial de CKAN](https://docs.ckan.org/en/latest/)
+- [Repositorio GitHub de CKAN](https://github.com/ckan/ckan)
 
 ---
 
-_Developed and maintained by [Open Knowledge Foundation](https://okfn.org)._ 
+## Contribuciones
 
+¡Las contribuciones son siempre bienvenidas! Si deseas contribuir a CKAN o reportar un problema, visita el [repositorio en GitHub](https://github.com/ckan/ckan).
+
+---
+
+## Licencia
+
+CKAN se distribuye bajo la [Licencia Pública General Affero de GNU (AGPL)](https://www.gnu.org/licenses/agpl-3.0.en.html).
+
+---
+
+_Desarrollado y mantenido por la [Open Knowledge Foundation](https://okfn.org)._
 
