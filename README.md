@@ -31,9 +31,8 @@ Establece permisos y niveles de acceso para los usuarios, asegurando la segurida
 
 Ya sea que estés configurando CKAN mediante paquetes, desde el código fuente o utilizando Docker, sigue estas guías paso a paso.
 
-1. [Instalación de CKAN vía Paquetes](#) - Guía para instalar CKAN utilizando paquetes del sistema.
-2. [Instalación de CKAN desde el Código Fuente](#) - Aprende a instalar CKAN desde el código fuente.
-3. [Instalación de CKAN con Docker](#) - Instalación rápida y sencilla utilizando contenedores Docker.
+1. [Instalación de CKAN desde el Código Fuente](./CKAN-from-source.md) - Aprende a instalar CKAN desde el código fuente.
+2. [Instalación de CKAN con Docker](./Ckan_Doker_compose.md) - Instalación rápida y sencilla utilizando contenedores Docker.
 
 ---
 
