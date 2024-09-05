@@ -1,7 +1,5 @@
 # CKAN: Comprehensive Knowledge Archive Network
 
-![CKAN Logo]([https://ckan.org/theme/images/logo/ckan-logo.png](https://avatars.githubusercontent.com/u/1630326?s=200&v=4))
-
 ## Overview
 
 **CKAN** is an open-source data management system (DMS) that allows you to store, manage, and share datasets in a structured and efficient way. It is widely used by governments, research institutions, and organizations for creating open data portals and improving data accessibility. 
